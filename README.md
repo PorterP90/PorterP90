@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I'm currnetly working on learning how to use Pygame!
+- I'm currnetly learning how to use Pygame for game development!
 - I'm currently working on my first game!
 - I love learning new things!
 - How to reach me:
