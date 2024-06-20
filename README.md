@@ -1,8 +1,8 @@
 ## Hi there 👋
-I'm currnetly working on learning how to use Pygame!
-I'm currently working on my first game!
-I love learning new things!
-How to reach me:
+- I'm currnetly working on learning how to use Pygame!
+- I'm currently working on my first game!
+- I love learning new things!
+- How to reach me:
 
 
 <!--
