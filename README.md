@@ -1,8 +1,12 @@
 ## Hi there 👋
+I'm currnetly working on learning how to use Pygame!
+I'm currently working on my first game!
+I love learning new things!
+How to reach me:
+
 
 <!--
 **PorterP90/PorterP90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
