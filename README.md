@@ -1,8 +1,6 @@
 ## Hi there 👋
-- I'm currnetly learning how to use Pygame for game development!
-- I'm currently working on my first game!
-- I love learning new things!
-- How to reach me:
+- I'm currnetly a student at BYU studying Computer Science
+- How to reach me: Email: porter.pearson@gmail.com
 
 
 <!--
