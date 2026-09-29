@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I'm currnetly a student at BYU studying Computer Science
+- I'm currently a student at BYU studying Computer Science
 - How to reach me: Email: porter.pearson@gmail.com
 
 
